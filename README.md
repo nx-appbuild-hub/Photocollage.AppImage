@@ -1,0 +1,1 @@
+# Photocollage.AppImage
